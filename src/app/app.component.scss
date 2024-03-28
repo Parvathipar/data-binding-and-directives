@@ -1,0 +1,49 @@
+
+.container{
+    width: 100%;
+    height:100vh;
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+}
+.style{
+    background-color: aqua;
+}
+
+.id{
+    border: 4px solid darkmagenta;
+    text-align: center;
+
+   
+}
+.button{
+    margin: 30px;
+    padding: 4px;
+    border: none;
+    border-radius: 30px;
+    background-color: lightcoral;
+    color: white;
+    margin-left:20px;
+    padding-bottom: 20px;
+    width: 300px;
+    height:50px;
+    padding-top: 10px;
+}
+
+.name{
+    border: 4px solid blueviolet;
+    text-align:center;
+}
+.place{
+    border: 4px solid brown;
+    text-align:center;
+
+
+}
+.age{
+    border: 4px solid darkcyan;
+    text-align:center;
+
+
+}
